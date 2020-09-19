@@ -1,3 +1,4 @@
 Name: Smaragda
 Age: 31
 Favorite color: Blue
+Birthday: 30 October
